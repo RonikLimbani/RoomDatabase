@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="indigo_blue">#87CEFA</color>
+    <color name="idigo_blue">#6BC2F8</color>
+    <color name="material_blue">#6BC2F8</color>
+
+<!--    Status Bar Color: #3F51B5 (Indigo)-->
+<!--    Toolbar Color: #1976D2 (Material Blue)-->
 </resources>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RoomDatabaseWithMvvm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userdata">UserData</string>
+    <string name="no_user_found_click_on_icon_to_add_user">No user found , Click on + icon to add User</string>
 </resources>
